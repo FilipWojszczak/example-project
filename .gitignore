@@ -3,3 +3,5 @@ manage.py
 nandiasgarden/__pycache__
 .env
 .idea
+pizza/__pycache__
+pizza/migrations/__pycache__
