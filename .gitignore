@@ -1,6 +1,6 @@
 db.sqlite3
 manage.py
-nandiasgarden/__pycache__
+restaurant/__pycache__
 .env
 .idea
 pizza/__pycache__

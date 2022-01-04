@@ -52,7 +52,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'nandiasgarden.urls'
+ROOT_URLCONF = 'restaurant.urls'
 
 TEMPLATES = [
     {
@@ -70,7 +70,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'nandiasgarden.wsgi.application'
+WSGI_APPLICATION = 'restaurant.wsgi.application'
 
 
 # Database
